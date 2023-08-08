@@ -8,6 +8,9 @@ namespace Banco
 {
     class Cliente
     {
-
+        public string Nome;
+        public string Cpf;
+        public int idade;
+        public string genero;
     }
 }
