@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "9liZEMwBvYDFOpjDZko1d/B8tXfcHiQqrKQijE2Unr2g3S7nnYnT2K+RGDTyb2bde75I3vwz8d50/p3elJiMkg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\autologon.CSED\\Documents\\VendasAPI\\VendasAPI\\VendasAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\autologon.CSED\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\autologon.CSED\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\autologon.CSED\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\autologon.CSED\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\autologon.CSED\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\autologon.CSED\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\autologon.CSED\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
