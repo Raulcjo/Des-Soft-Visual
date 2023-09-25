@@ -1,7 +1,0 @@
-C:\Users\autologon.CSED\Documents\Aula2\Aula2\bin\Debug\Aula2.exe.config
-C:\Users\autologon.CSED\Documents\Aula2\Aula2\bin\Debug\Aula2.exe
-C:\Users\autologon.CSED\Documents\Aula2\Aula2\bin\Debug\Aula2.pdb
-C:\Users\autologon.CSED\Documents\Aula2\Aula2\obj\Debug\Aula2.csproj.AssemblyReference.cache
-C:\Users\autologon.CSED\Documents\Aula2\Aula2\obj\Debug\Aula2.csproj.CoreCompileInputs.cache
-C:\Users\autologon.CSED\Documents\Aula2\Aula2\obj\Debug\Aula2.exe
-C:\Users\autologon.CSED\Documents\Aula2\Aula2\obj\Debug\Aula2.pdb
